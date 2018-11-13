@@ -1,14 +1,10 @@
 #include <iostream>
 #include "task2.h"
-<<<<<<< HEAD
 int gen()
 {	
 	static int t = 48;
 	return t++;
 }
-=======
-
->>>>>>> 3fe165bde73ca37edcf6a306dfc19e94d8b021f8
 int main()
 {
 	int const N= 6;

@@ -1,8 +1,4 @@
 #pragma once
-<<<<<<< HEAD
-#include <typeinfo> 
-=======
->>>>>>> 3fe165bde73ca37edcf6a306dfc19e94d8b021f8
 template <typename T>
 void msort(T* arr, const int n)
 {
