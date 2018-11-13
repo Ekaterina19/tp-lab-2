@@ -1,9 +1,12 @@
 #include <iostream>
 #include"task3.h"
+<<<<<<< HEAD
 int change(int val)
 {
 	return val + 1;
 }
+=======
+>>>>>>> 3fe165bde73ca37edcf6a306dfc19e94d8b021f8
 
 int main()
 {
