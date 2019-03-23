@@ -1,9 +1,11 @@
 #include <iostream>
 #include"task3.h"
+
 int change(int val)
 {
 	return val + 1;
 }
+
 int main()
 {
 	const int N = 6;
