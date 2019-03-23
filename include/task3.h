@@ -1,5 +1,5 @@
 #pragma once
-template<typename T,const int N>
+template<typename T, const int N>
 T* map (T Arr[], T(*change)(T))
 {	
 	
