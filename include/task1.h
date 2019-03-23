@@ -28,7 +28,7 @@ void msort(char** arr, int n)
 		{
 			for (int j = i; j < n; j++)
 			{
-				if (strlen((char*)arr[i])>=strlen((char*) arr[j]))
+				if (strlen((char*)arr[i]) >= strlen((char*) arr[j]))
 				{
 					char* tmp = arr[j];
 					arr[j] = arr[i];
